@@ -1,0 +1,50 @@
+body {
+    background: gray;
+}
+
+:root {
+    /* main UI color */
+    --plyr-color-main: red;
+    /* audio controls background */
+    --plyr-audio-controls-background: green;
+    /* audio controls color */
+    --plyr-audio-control-color: yellow;
+
+    --plyr-audio-control-color-hover: purple;
+
+    --plyr-audio-progress-buffered-background: blue;
+
+    --plyr-audio-range-track-background: orange;
+    
+    --plyr-font-family: sans-serif;
+    --plyr-font-size-time: 32px;
+
+    --plyr-tooltip-background: fuchsia;
+    --plyr-tooltip-color: black; 
+
+    --plyr-control-icon-size: 32px;
+}
+
+/* Layout */
+main {
+    background: lightgray;
+    max-width: 60rem;
+    margin-inline: auto;
+}
+
+main img {
+    max-width: 100%;
+    display: block;
+}
+
+main article {
+    display: flex;
+    gap: 1em;
+}
+
+/* Media Queries */
+@media (max-width: 600px) {
+    main article {
+        flex-direction: column;
+    }
+}
