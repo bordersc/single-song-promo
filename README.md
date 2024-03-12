@@ -1,9 +1,9 @@
-# Singles Song Website
+# Single Song Promotion
 
 > Playlists more popular than albums 
 
 ## What is this? 
-* A website for a single-song
+* A website to promote a single-song
 * Promotional website to showcase a song
 * Practice [Editorial Design concepts](https://taiarts.com/en/blog/what-is-editorial-design/) using [Art Direction methods](https://alistapart.com/article/art-direction-and-design/)
 
@@ -13,5 +13,4 @@
 * What's old is new agai. This is the [modern mixtape](https://en.wikipedia.org/wiki/Mixtape) or a compilation of curated songs. 
 
 ## Citations
-* Images from [EWU Athletics](https://goeags.com/) 
-* [EWU Wallpapers](https://www.ewu.edu/apply/contact/wallpapers/)
+* Your citations go here
