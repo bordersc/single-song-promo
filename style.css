@@ -83,3 +83,53 @@ footer {
         flex-direction: column;
     }
 }
+
+article section:hover {
+
+    font-size: 1.5em;
+
+    transition:
+        font-size .75s;
+}
+
+h1 {
+    background: none;
+    font-size: 3em;
+    
+    transition:
+        font-size .75s;
+}
+
+h2 {
+    background: none;
+    font-size: 2em;
+    
+    transition:
+        font-size .75s;
+}
+
+h1:hover {
+
+    max-width: 350px;
+    background: pink;
+    border-radius: 0px 60px 0px 60px;
+    font-size: 5em;
+    padding-left: 30px;
+    
+    transition:
+      background .75s .5s,
+      font-size .75s;
+}
+
+h2:hover {
+
+    max-width: 350px;
+    background: pink;
+    font-size: 4em;
+    border-radius: 0px 60px 0px 60px;
+    padding-left: 45px;
+    
+    transition:
+      background .75s .5s,
+      font-size .75s;
+}
